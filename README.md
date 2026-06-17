@@ -45,7 +45,7 @@ I'm a passionate developer from India who enjoys building mobile applications wi
 
 A Flutter application for managing products, cart operations, and local storage.
 
-**Tech Used:** Flutter, Provider, Hive
+**Tech Used:** Python
 
 ### 🎤 AI Mock Interview Voice Agent
 
